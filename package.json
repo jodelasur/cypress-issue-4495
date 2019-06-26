@@ -1,0 +1,15 @@
+{
+  "name": "cypress-issue-4495",
+  "version": "1.0.0",
+  "description": "Test for Cypress issue 4495",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.3.1"
+  }
+}
